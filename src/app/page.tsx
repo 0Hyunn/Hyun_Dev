@@ -1,4 +1,3 @@
 export default function Home() {
-  return <div className="bg-red-500">aa</div>
-    
+  return <div className="border-1 border-style: solid border-red-200">aa</div>;
 }
